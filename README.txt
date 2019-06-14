@@ -1,1 +1,2 @@
 Release1 - Contains android .apk and code composer studio code for the SPWAS
+Release2 - Contains same andoird .apk as Release 1. CCS code has a bug fixed in the SCS process task in project_zero.c where the frequency would read non-zero, or have a large spike when accelerating from zero.
